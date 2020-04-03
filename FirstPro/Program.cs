@@ -6,8 +6,10 @@ namespace FirstPro
     {
         static void Main(string[] args)
         {
+            //This is My First Program
+
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Mohamed Abdulmunim Ibrahim Goleeb");
+            
 
         }
     }
